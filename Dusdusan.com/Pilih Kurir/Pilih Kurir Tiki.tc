@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pilih Kurir Tiki</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9b5d052-29a6-4fd3-a126-7f21b7d130a4</testCaseGuid>
+</TestCaseEntity>

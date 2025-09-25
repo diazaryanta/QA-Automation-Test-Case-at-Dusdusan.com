@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pilih Kurir Grab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21bf4a5a-6634-46a0-9140-6be13ba59272</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pilih Kurir Go Send</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5107c01-82c2-43b5-a8c8-e2218b02b49b</testCaseGuid>
+</TestCaseEntity>

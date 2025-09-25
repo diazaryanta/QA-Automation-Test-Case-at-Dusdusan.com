@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pilih Kurir Pos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85d1de10-90bf-49cf-ae28-6b4be2f2071f</testCaseGuid>
+</TestCaseEntity>
