@@ -1,8 +1,8 @@
 **NOTES**
 
-- Perusahaan ini sudah tidak beroperasi sejak 21 Maret 2025
-- Project ini dibuat untuk keperluan tugas akhir (Tesis)
-- Ketika project ini dibuat ketika perusahaan masih dalam status aktif (Beroperasi)
+- Perusahaan ini sudah tidak beroperasi sejak 21 Maret 2025.
+- Project ini dibuat untuk keperluan tugas akhir (Tesis).
+- Ketika project ini dibuat status perusahaan masih aktif dan beroperasi.
 
 # QA Automation Test Case at Dusdusan.com
 
