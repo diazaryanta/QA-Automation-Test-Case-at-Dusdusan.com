@@ -6,7 +6,7 @@
 
 # QA Automation Test Case at Dusdusan.com
 
-Repository ini berisi kumpulan test case otomatisasi untuk pengujian aplikasi Dusdusan.com.  
+Repository ini berisi kumpulan test case automation untuk pengujian aplikasi Dusdusan.com.  
 Dibuat sebagai bagian dari penelitian dan praktik QA (Quality Assurance) dengan menggunakan **Katalon Studio**.
 
 ## Tools yang Digunakan
